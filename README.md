@@ -4,6 +4,8 @@ The present study aims to infer individuals' social networks from their spatiote
 
 ## Link to the paper: 
 [To be added soon.]
+## Required libraries: 
+[To be added soon.]
 
 ## How to run the code:
 In order to run the code for this analysis, you need to obtain spatio temporal data. In this repository, the dummy examples are provided (see Data/Dummy). You could also download the Spatiotemporal data provided in this paper via this link. After preparing data, you need to simply run the main python file as follows:
@@ -13,4 +15,16 @@ In order to run the code for this analysis, you need to obtain spatio temporal d
 
 ## How to site this work:
 
+```
+@article{articlename,
+  title={articletitle},
+  author={authorlist},
+  journal={journalname},
+  volume={volname},
+  number={number},
+  pages={pagenumber},
+  year={year},
+  publisher={publisher}
+}
+```
 

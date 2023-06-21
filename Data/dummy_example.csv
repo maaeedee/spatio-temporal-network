@@ -1,0 +1,8 @@
+tagX,tagY,time
+A,B,1
+B,C,1
+A,C,1
+A,D,2
+A,C,3
+B,C,4
+B,D,6

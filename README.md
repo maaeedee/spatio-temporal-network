@@ -18,15 +18,16 @@ In order to run the code for this analysis, you need to obtain spatio temporal d
 ## How to site this work:
 
 ```
-@article{articlename,
-  title={articletitle},
-  author={authorlist},
-  journal={journalname},
-  volume={volname},
-  number={number},
-  pages={pagenumber},
-  year={year},
-  publisher={publisher}
+@article{nasri2023novel,
+  title={A novel metric to measure spatio-temporal proximity: a case study analyzing children’s social network in schoolyards},
+  author={Nasri, Maedeh and Baratchi, Mitra and Tsou, Yung-Ting and Giest, Sarah and Koutamanis, Alexander and Rieffe, Carolien},
+  journal={Applied Network Science},
+  volume={8},
+  number={1},
+  pages={50},
+  year={2023},
+  publisher={Springer}
 }
+
 ```
 
